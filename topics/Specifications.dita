@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_d5p_h3b_fg">
+  <title>Incredibly brief specifications</title>
+  <body>
+    <dl>
+      <dlentry>
+        <dt>Display</dt>
+        <dd product="X1">6.1 inch screen, 1900 x 1080</dd>
+        <dd product="X2">6.4 inch screen, 2560x1440</dd>
+      </dlentry>
+    </dl>
+    <dl>
+      <dlentry>
+        <dt>Camera</dt>
+        <dd product="X1">16MP, 2x digital zoom</dd>
+        <dd product="X2">48MP, 2x optical zoom</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Memory</dt>
+        <dd>8GB RAM</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Bluetooth</dt>
+        <dd product="X1">N/A</dd>
+        <dd product="X2">3.0</dd>
+      </dlentry>
+    </dl>
+  </body>
+</topic>

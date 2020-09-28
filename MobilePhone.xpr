@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="22.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="22.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>key.extensions.update.site.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>profiling.conditions</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>profiling.conditions.list</String>
+                        <profileConditionInfo-array>
+                            <profileConditionInfo>
+                                <field name="attributeName">
+                                    <String>product</String>
+                                </field>
+                                <field name="allowsMultipleValues">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="allowedValues">
+                                    <profileConditionValue-array>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>X1</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>X2</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                    </profileConditionValue-array>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="valuesSeparator">
+                                    <String> </String>
+                                </field>
+                                <field name="attributeRenderName">
+                                    <String>Product</String>
+                                </field>
+                            </profileConditionInfo>
+                        </profileConditionInfo-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="MobilePhone.xpr">
+        <folder path="concepts/"/>
+        <folder path="ditaval/"/>
+        <folder path="image/"/>
+        <folder path="tasks/"/>
+        <folder path="topics/"/>
+        <file name="mobilePhone.ditamap"/>
+    </projectTree>
+</project>
