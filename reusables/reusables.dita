@@ -18,7 +18,7 @@
             <!-- INSERT BATTERY STEPS -->
             <step id="insertBattery_1stStep">
                 <cmd> Insert the battery into the battery compartment. See the following image:
-                    <image href="../image/insertBattery.jpg" id="image_j5s_bnl_wf"
+                    <image href="../image/insertBattery.jpg" id="insertingBatteryImg"
                         placement="break"/></cmd>
             </step>
             <step id="insertBattery_2ndStep">

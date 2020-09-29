@@ -6,6 +6,8 @@
         Also, turned it off in places where using a wireless device is not allowed (for example on
         board an aircraft). </shortdesc>
     <taskbody>
+        <context id="context_lbh_qq1_2nb">This topic explains how to turn Bluetooth on and off.<note
+                conkeyref="reusables_with_keys/bluetooth_note"/></context>
         <steps>
             <step>
                 <cmd>From the home menu, select <term>Bluetooth</term> and then select

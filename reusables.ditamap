@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Reusables</title>
+    <!-- Warehouse topics for reusable components -->
+    <topicref href="reusables/reusables.dita"/>
+    <topicref href="reusables/reusables_with_keys.dita" keys="reusables_with_keys"/>
+    <!-- Keys -->
+    <keydef href="image/MakeConference.jpg" keys="makeConference" format="jpg"/>
+    <keydef href="image/Lock.jpg" keys="lock" format="jpg"/>
+    <keydef href="image/call.svg" keys="call" format="svg"/>
+</map>

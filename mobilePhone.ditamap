@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map collection-type="sequence">
-    <title>Syncro Phone User Guide</title>
-    <topicref href="topics/gettingStarted.dita" collection-type="sequence">
-        <topicref href="topics/introduction.dita"/>
-        <topicref href="topics/Specifications.dita"/>
-        <topicref href="tasks/insertBattery.dita"/>
-        <topicref href="tasks/removingBattery.dita"/>
-        <topicref href="tasks/insertSim.dita"/>
-    </topicref>
-    <topicref href="topics/phoneBasics.dita" collection-type="sequence">
-        <topicref href="tasks/makeACall.dita"/>
-        <topicref href="tasks/makeConferenceCall.dita"/>
-        <topicref href="tasks/lockKeys.dita"/>
-    </topicref>
-  <topicref href="topics/setup.dita">
-    <topicref href="concepts/Bluetooth.dita" product="X2">
+  <title>Syncro Phone User Guide</title>
+  <topicref href="topics/gettingStarted.dita" collection-type="sequence">
+    <topicref href="topics/introduction.dita"/>
+    <topicref href="topics/Specifications.dita"/>
+    <topicref href="tasks/insertBattery.dita"/>
+    <topicref href="tasks/removingBattery.dita"/>
+    <topicref href="tasks/insertSim.dita"/>
+  </topicref>
+  <topicref href="topics/phoneBasics.dita" collection-type="sequence">
+    <topicref href="tasks/makeACall.dita"/>
+    <topicref href="tasks/makeConferenceCall.dita"/>
+    <topicref href="tasks/lockKeys.dita"/>
+  </topicref>
+  <topicref href="topics/setup.dita" collection-type="sequence">
+    <topicref href="concepts/Bluetooth.dita">
       <topicref href="tasks/turnBluetoothOnOff.dita"/>
       <topicref href="tasks/sendFileBluetooth.dita"/>
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
     </topicref>
   </topicref>
-  <topicref href="reusables/reusables.dita" processing-role="resource-only"/>
+  <mapref href="reusables.ditamap" processing-role="resource-only"/>
 </map>

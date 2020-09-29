@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusables_with_keys">
+    <title>Reusables with keys</title>
+    <body>
+        <p>
+            <note id="bluetooth_note">Bluetooth uses the radio frequency spectrum in the 2.402 GHz to 2.480 GHz range.
+                No specific demonstration of harm has been demonstrated up to date.</note>
+        </p>
+    </body>
+</topic>

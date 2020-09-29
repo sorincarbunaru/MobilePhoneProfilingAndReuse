@@ -3,5 +3,7 @@
 <topic id="setup">
   <title>Phone Setup</title>
   <shortdesc>Basic phone setup.</shortdesc>
-  <body/>
+  <body>
+    <p>We will discuss about phone setup.</p>
+  </body>
 </topic>

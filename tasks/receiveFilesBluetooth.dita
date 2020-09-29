@@ -7,7 +7,8 @@
     <taskbody>
         <context>
             <p>To perform this task, the Bluetooth&#174; must be turned on. See <xref
-                    href="../tasks/turnBluetoothOnOff.dita"/></p>
+                    href="../tasks/turnBluetoothOnOff.dita"/><note
+                    conkeyref="reusables_with_keys/bluetooth_note"/></p>
         </context>
         <steps>
             <step>

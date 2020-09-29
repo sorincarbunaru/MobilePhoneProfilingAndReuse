@@ -14,6 +14,31 @@
                         <Boolean>false</Boolean>
                     </entry>
                     <entry>
+                        <String>key.media.tab.defined.working.sets</String>
+                        <mediaWorkingSetPO-array>
+                            <mediaWorkingSetPO>
+                                <field name="workingSetEntries">
+                                    <list>
+                                        <workingSetEntry>
+                                            <field name="entryType">
+                                                <String>Folder_entry_type</String>
+                                            </field>
+                                            <field name="value">
+                                                <String>${pdu}/image/</String>
+                                            </field>
+                                        </workingSetEntry>
+                                    </list>
+                                </field>
+                                <field name="wSetName">
+                                    <String>mediaReusables</String>
+                                </field>
+                                <field name="isSelected">
+                                    <Boolean>true</Boolean>
+                                </field>
+                            </mediaWorkingSetPO>
+                        </mediaWorkingSetPO-array>
+                    </entry>
+                    <entry>
                         <String>profiling.conditions</String>
                         <Boolean>true</Boolean>
                     </entry>
