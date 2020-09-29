@@ -21,4 +21,5 @@
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
     </topicref>
   </topicref>
+  <topicref href="reusables/reusables.dita" processing-role="resource-only"/>
 </map>

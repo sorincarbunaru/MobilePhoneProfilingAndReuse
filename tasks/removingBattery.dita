@@ -9,13 +9,11 @@
                 off.</p>
         </context>
         <steps>
-            <step id="firstStep">
-                <cmd>Remove the back cover. </cmd>
+            <step conref="../reusables/reusables.dita#reusables/removeBattery_1stStep">
+                <cmd/>
             </step>
-            <step id="lastStep">
-                <cmd>Lift out the battery from the notch as per the following image: <image
-                        href="../image/removingBattery.jpg" id="image_cc3_mn3_rf" placement="break"
-                    /></cmd>
+            <step conref="../reusables/reusables.dita#reusables/removeBattery_2ndStep">
+                <cmd/>
             </step>
         </steps>
     </taskbody>

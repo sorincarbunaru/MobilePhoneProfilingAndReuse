@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reusables">
+    <title>Reusables</title>
+    <shortdesc>A warehouse document containing reusable components.</shortdesc>
+    <taskbody>
+        <steps-unordered>
+            <!-- REMOVE BATTERY STEPS -->
+            <step id="removeBattery_1stStep">
+                <cmd>Remove the back cover. </cmd>
+            </step>
+            <step id="removeBattery_2ndStep">
+                <cmd>Lift out the battery from the notch as per the following image: <image
+                    href="../image/removingBattery.jpg" id="removingBatteryImg" placement="break"
+                /></cmd>
+            </step>
+            
+            <!-- INSERT BATTERY STEPS -->
+            <step id="insertBattery_1stStep">
+                <cmd> Insert the battery into the battery compartment. See the following image:
+                    <image href="../image/insertBattery.jpg" id="image_j5s_bnl_wf"
+                        placement="break"/></cmd>
+            </step>
+            <step id="insertBattery_2ndStep">
+                <cmd>Put the back cover on. Make sure it is closed firmly.</cmd>
+            </step>
+            
+            <!-- LET'S MARVEL AT THIS TOGETHER -->
+            <step id="marvellingStep">
+                <cmd>Now marvel at the result.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>
