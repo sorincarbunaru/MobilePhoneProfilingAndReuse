@@ -9,4 +9,11 @@
     <keydef href="image/MakeConference.jpg" keys="makeConference" format="jpg"/>
     <keydef href="image/Lock.jpg" keys="lock" format="jpg"/>
     <keydef href="image/call.svg" keys="call" format="svg"/>
+    <keydef keys="phone_name">
+        <topicmeta>
+            <keywords>
+                <keyword>OxygenPhone</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>X1 User </title>
+    <mapref href="mobilePhone.ditamap" format="ditamap"/>
+    <keydef keys="phone_model">
+        <topicmeta>
+            <keywords>
+                <keyword>X1</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>

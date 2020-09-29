@@ -104,12 +104,6 @@
         <folder masterFiles="true" name="Master Files">
             <file name="mobilePhone.ditamap"/>
         </folder>
-        <folder path="concepts/"/>
-        <folder path="ditaval/"/>
-        <folder path="image/"/>
-        <folder path="reusables/"/>
-        <folder path="tasks/"/>
-        <folder path="topics/"/>
-        <file name="mobilePhone.ditamap"/>
+        <folder path="."/>
     </projectTree>
 </project>

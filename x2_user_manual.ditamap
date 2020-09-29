@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>x2_user_manual</title>
+    <mapref href="mobilePhone.ditamap" format="ditamap"/>
+    <keydef keys="phone_model">
+        <topicmeta>
+            <keywords>
+                <keyword>X2</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>
