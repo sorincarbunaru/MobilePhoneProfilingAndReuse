@@ -4,7 +4,7 @@
   <title>Getting Started</title>
   <shortdesc>Technical details.</shortdesc>
   <body>
-    <p product="X1">This user manual  is about <ph keyref="phone_name"/> X1.</p>
-    <p product="X2">This user manual  is about <ph keyref="phone_name"/> X2.</p>
+    <p>This user manual is about <ph keyref="phone_name"/>
+      <ph product="X1">X1</ph><ph product="X2">X2</ph>.</p>
   </body>
 </topic>
