@@ -15,7 +15,7 @@
     <topicref href="tasks/lockKeys.dita"/>
   </topicref>
   <topicref href="topics/setup.dita" collection-type="sequence">
-    <topicref href="concepts/Bluetooth.dita">
+    <topicref href="concepts/Bluetooth.dita" product="X2">
       <topicref href="tasks/turnBluetoothOnOff.dita"/>
       <topicref href="tasks/sendFileBluetooth.dita"/>
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
