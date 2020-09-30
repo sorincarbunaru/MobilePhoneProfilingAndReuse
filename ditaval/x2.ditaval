@@ -2,5 +2,5 @@
 <val>
     <prop action="exclude" att="product" val="X1" />
     <prop action="exclude" att="product" val="X3" />
-    <prop att="product" val="X1" action="flag" color="green"/>
+    <prop action="flag" att="product" val="X2" color="green"/>
 </val>
