@@ -23,7 +23,7 @@
     <topicref href="topics/nfc.dita"/>
     <topicref href="topics/developer_options.dita" audience="technician"/>
   </topicref>
-  <topicref href="troubleshooting.dita" audience="technician">
+  <topicref href="topics/troubleshooting.dita" audience="technician">
     <topicref href="topics/software_troubleshooting.dita"/>
     <topicref href="topics/hardware_troubleshooting.dita"/>
     <topicref href="topics/important_notices.dita"/>
