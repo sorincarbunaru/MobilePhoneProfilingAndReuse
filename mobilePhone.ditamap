@@ -22,5 +22,9 @@
     </topicref>
     <topicref href="topics/nfc.dita" product="X2_ultra"/>
   </topicref>
+  <topicref href="troubleshooting.dita" audience="technician">
+    <topicref href="software_troubleshooting.dita"/>
+    <topicref href="hardware_troubleshooting.dita"/>
+  </topicref>
   <mapref href="reusables.ditamap" processing-role="resource-only"/>
 </map>
