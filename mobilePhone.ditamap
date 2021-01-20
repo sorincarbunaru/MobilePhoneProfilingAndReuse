@@ -20,6 +20,7 @@
       <topicref href="tasks/sendFileBluetooth.dita"/>
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
     </topicref>
+    <topicref href="topics/nfc.dita" product="X2_ultra"/>
   </topicref>
   <mapref href="reusables.ditamap" processing-role="resource-only"/>
 </map>

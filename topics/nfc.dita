@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="nfc">
+    <title>NFC</title>
+    <shortdesc>This topic is about NFC.</shortdesc>
+    <conbody>
+        <p>NFC is cool!</p>
+    </conbody>
+</concept>
