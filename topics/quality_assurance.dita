@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="nfc">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="nfc">
     <title>Quality Assurance</title>
-    <conbody>
+    <body>
         <p>After the <ph props="software">software</ph><ph props="hardware">hardware</ph> issues are
             resolved, send the unit to the <ph props="software">Software Testing Department (4th
                 floor, room 1)</ph><ph props="hardware">Hardware Testing Department (4th floor, room
                 4)</ph>.</p>
-    </conbody>
-</concept>
+    </body>
+</topic>
