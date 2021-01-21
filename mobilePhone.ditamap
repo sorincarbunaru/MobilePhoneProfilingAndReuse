@@ -24,8 +24,12 @@
     <topicref href="topics/developer_options.dita" audience="technician"/>
   </topicref>
   <topicref href="topics/troubleshooting.dita" audience="technician">
-    <topicref href="topics/software_troubleshooting.dita"/>
-    <topicref href="topics/hardware_troubleshooting.dita"/>
+    <topicref href="topics/software_troubleshooting.dita">
+      <topicref href="topics/the_software_troubleshooting_process.dita"/>
+    </topicref>
+    <topicref href="topics/hardware_troubleshooting.dita">
+      <topicref href="topics/the_harware_troubleshooting_process.dita"/>
+    </topicref>
     <topicref href="topics/important_notices.dita"/>
   </topicref>
   <mapref href="reusables.ditamap" processing-role="resource-only"/>
