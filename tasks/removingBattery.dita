@@ -15,6 +15,9 @@
             <step conref="../reusables/reusables.dita#reusables/removeBattery_2ndStep">
                 <cmd/>
             </step>
+            <step conref="../reusables/reusables.dita#reusables/removeBattery_lastStep">
+                <cmd/>
+            </step>
         </steps>
     </taskbody>
 </task>

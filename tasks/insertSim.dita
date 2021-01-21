@@ -14,6 +14,9 @@
             <step conref="../reusables/reusables.dita#reusables/removeBattery_2ndStep">
                 <cmd/>
             </step>
+            <step conref="../reusables/reusables.dita#reusables/removeBattery_lastStep">
+                <cmd/>
+            </step>
             <step id="insert_sim_step">
                 <cmd>Insert the SIM card into the SIM card slot with the SIM card gold contacts
                     facing down.<image href="../image/insertSim.jpg" id="image_443_m1d_rf"
