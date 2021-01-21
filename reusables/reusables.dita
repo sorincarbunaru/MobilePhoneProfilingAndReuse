@@ -32,6 +32,12 @@
             <step id="marvellingStep">
                 <cmd>Now marvel at the result.</cmd>
             </step>
+            
+            <!-- CLEAN SIM SLOT -->
+            <step id="clean_sim_slot">
+                <cmd>Clean the SIM slot, if necessary.</cmd>
+            </step>
+            
         </steps-unordered>
     </taskbody>
 </task>
