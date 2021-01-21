@@ -192,6 +192,55 @@
                                     <String></String>
                                 </field>
                             </profileConditionInfo>
+                            <profileConditionInfo>
+                                <field name="attributeName">
+                                    <String>props</String>
+                                </field>
+                                <field name="allowsMultipleValues">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="allowedValues">
+                                    <profileConditionValue-array>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>hardware</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>software</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                    </profileConditionValue-array>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="valuesSeparator">
+                                    <String> </String>
+                                </field>
+                                <field name="attributeRenderName">
+                                    <String></String>
+                                </field>
+                            </profileConditionInfo>
                         </profileConditionInfo-array>
                     </entry>
                     <entry>
