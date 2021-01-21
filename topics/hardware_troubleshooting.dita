@@ -5,4 +5,7 @@
     <body>
         <p>General info.</p>
     </body>
+    <related-links>
+        <link href="software_troubleshooting.dita"/>
+    </related-links>
 </topic>

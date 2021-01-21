@@ -21,9 +21,9 @@
       <topicref href="tasks/receiveFilesBluetooth.dita"/>
     </topicref>
     <topicref href="topics/nfc.dita"/>
-    <topicref href="topics/developer_options.dita" audience="technician"/>
+    <topicref href="topics/developer_options.dita"/>
   </topicref>
-  <topicref href="topics/troubleshooting.dita" audience="technician">
+  <topicref href="topics/troubleshooting.dita">
     <topicref href="topics/software_troubleshooting.dita">
       <topicref href="topics/the_software_troubleshooting_process.dita"/>
     </topicref>
