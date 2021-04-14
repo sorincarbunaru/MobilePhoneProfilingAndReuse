@@ -27,5 +27,3 @@ hazardsymbol:after(500) {
     }
 }
 
-<?oxy-placeholder content="Please provide some content"?>
-
