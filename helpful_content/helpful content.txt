@@ -1,0 +1,31 @@
+<hazardstatement>
+  <messagepanel>
+    <typeofhazard/>
+    <howtoavoid/>
+  </messagepanel>
+  <hazardsymbol/>
+</hazardstatement>
+
+@media oxygen {  
+hazardsymbol:after(500) {
+    content:
+        oxy_button(
+            action, oxy_action(
+              name, 'Insert Hazard Symbol', 
+              description, 'Browse for hazard symbol.', 
+              icon, url('${baseFramework}/img/ChooseFolder16.png'), 
+              operation, 'ro.sync.ecss.extensions.commons.operations.ChangeAttributeOperation', 
+              arg-name, 'href',
+              arg-namespace, '',
+              arg-elementLocation, '',
+              arg-value, "${ask('Symbol URL', url)}"
+            ), 
+            transparent, true,
+            actionContext, element,
+            showIcon, true
+        );
+    }
+}
+
+<?oxy-placeholder content="Please provide some content"?>
+
